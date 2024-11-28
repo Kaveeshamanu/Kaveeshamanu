@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kavee
-- 👀 I’m interested in coding/web designing & formula1
+- 👀 I’m interested in coding/web designing
 - 🌱 I’m currently learning Java & web design
 - 📫 Mail me kaveeshamanusaraniG786@gmail.com 
 - ⚡ Fun fact: I'm coding & eating
