@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: **AI-powered travel apps & cab booking systems**  
-- 🌱 Learning: **Advanced AI, Blockchain & Flutter**  
+- 🔭 Currently working on: **Smart Plant house for hommies**  
+- 🌱 Learning: **MERN Stack | AI & ML**  
 - 🎯 Goal: **To build impactful, scalable applications**  
 - ⚡ Fun fact: *I design graphics & code full-stack apps with equal passion*  
 
