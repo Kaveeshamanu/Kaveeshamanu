@@ -17,18 +17,21 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,html,css,js,react,nodejs,firebase,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,codepen,eclipse,python,dart,flutter,html,css,tailwind,js,react,nodejs,php,laravel,dotnet,c,cs,arduino,firebase,mysql,git,github,figma,illustrator,photoshop" />
 </p>
+
 
 ---
 
 ## 🎨 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| **SteamNoodles Feedback Agent** | Python AI Assistant to process user feedback | [GitHub](https://github.com/kaveeshamanu/steamnoodles-feedback-agent-Kaveesha) |
-| **CGP_26** | Dart-based UI project | [GitHub](https://github.com/kaveeshamanu/CGP_26) |
-| **AI Travel Planner CLI** | Python CLI app with OpenAI API for travel planning | [GitHub](https://github.com/kaveeshamanu/Python) |
-| **Web (CSS)** | Modern, stylish front-end UI demos | [GitHub](https://github.com/kaveeshamanu/Web) |
+
+| Project | Tech | Description | Link |
+|---------|------|-------------|------|
+| **SteamNoodles Feedback Agent** | Python, AI, NLP | AI-powered assistant for processing customer feedback | [GitHub](https://github.com/kaveeshamanu/steamnoodles-feedback-agent-Kaveesha) |
+| **CGP_26** | Dart, Flutter | Dart-based UI project showcasing interactive features | [GitHub](https://github.com/kaveeshamanu/CGP_26) |
+| **AI Travel Planner CLI** | Python, OpenAI API | Command-line tool for AI-generated travel itineraries | [GitHub](https://github.com/kaveeshamanu/Python) |
+| **Web (CSS)** | HTML, CSS, JS | Modern, stylish front-end UI demos | [GitHub](https://github.com/kaveeshamanu/Web) |
+
 
 ---
 
@@ -58,6 +61,7 @@ Loading latest projects...
   <a href="https://dribbble.com/kaveeG786"><img src="https://skillicons.dev/icons?i=dribbble" height="40" /></a>
   <a href="https://kaveeshamanu.github.io/Web/"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
   <a href="mailto:kaveeshamanusaraniG786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  
 </p>
 
 ---
