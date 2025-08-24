@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B,+I'm+Kaveesha!;Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%92%BC+%7C+Fullstack+Developer+%E2%9A%99%EF%B8%8F%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8%F0%9F%96%8C%EF%B8%8F+%7C+Graphic+Designer+%F0%9F%8E%AD%E2%9C%8D%EF%B8%8F;AI+and+IoT+Enthusiast+%F0%9F%A7%A0%F0%9F%92%A1%F0%9F%8C%B1%E2%9A%A1" alt="Typing Banner"/>
 </p>
+<p align="center">
+  <b>BSc(Hons) Software Engineering | University of Plymouth | UK</b>
+</p>
 
-
-
----
 
 ## 🌟 About Me
 - 🔭 Currently working on: **Smart Plant-House System**
-- 🧩 Hobbies: **Playin volleyball 🏐🤾‍♂️☀️** 
+- 🧩 Hobbies: **An Athlete 🏐🤾‍♂️☀️** 
 - 🌱 Learning: **MERN Stack|AI & ML**  
 - 🎯 Goal: Build **impactful, scalable applications**  
 - ⚡ Fun Fact: I combine **design + code + creativity** in all my projects  
