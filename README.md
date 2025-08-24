@@ -8,7 +8,8 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: **Smart Plant-House System**  
+- 🔭 Currently working on: **Smart Plant-House System**
+- 🧩 Hobbies: **Playin volleyball 🏐🤾‍♂️☀️** 
 - 🌱 Learning: **MERN Stack|AI & ML**  
 - 🎯 Goal: Build **impactful, scalable applications**  
 - ⚡ Fun Fact: I combine **design + code + creativity** in all my projects  
