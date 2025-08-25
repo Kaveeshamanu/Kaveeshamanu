@@ -51,7 +51,7 @@ Loading latest projects...
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveeshamanu&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaveeshamanu&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?username=Kaveeshamanu&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
