@@ -50,9 +50,7 @@ Loading latest projects...
   <img src="https://github-readme-stats.vercel.app/api?username=Kaveeshamanu&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveeshamanu&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?username=Kaveeshamanu&theme=radical&hide_border=true" height="160"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kaveeshamanu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ---
 
